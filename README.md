@@ -1,12 +1,16 @@
 # Grazioso-Salvare-Dashboard-Project
-Grazioso Salvare Dashboard Project
 
-About the Project/Project Title
+
+#About the Project/Project Title
+
+
 This project is a web-based dashboard developed for Grazioso Salvare. It provides an interactive interface for exploring the Austin Animal Center Outcomes dataset, allowing users to filter and visualize data based on specific criteria such as breed, sex, and age.
 Motivation
 The motivation behind this project was to create a tool that could assist Grazioso Salvare in managing and analyzing animal outcome data more effectively. By providing a visual and interactive means of exploring the dataset, the dashboard aims to improve decision-making and operational efficiency.
 
-Getting Started
+#Getting Started
+
+
 •	Clone the Repository:
 •	Navigate to the Project Directory:
 •	Install Dependencies:
@@ -14,19 +18,23 @@ Getting Started
 •	Set Up MongoDB: Ensure you have MongoDB running locally or access to a MongoDB instance. Update the connection parameters in crud.py to match your MongoDB setup.
  
 
-Installation
+#Installation
+
+
 •	Python: Ensure Python 3.x is installed. 
 •	Jupyter Notebook: For running the testing script.
 pip install notebook
 •	MongoDB: Ensure MongoDB is installed and running. 
 •	Create a user account in the mongo shell to ensure user authentication to the database and collection you created. 
  
-Tests
+
+#Tests
+
 1.	Open Jupyter Notebook:
 2.	Run the Script: Open ProjectTwoDashboard.ipynb in Jupyter Notebook and execute the cells to run the tests for create and read operations.
  
 
-Roadmap/Features 
+#Roadmap/Features 
 •	Future Features:
 o	Implement advanced filtering options.
 o	Add support for exporting filtered data.
@@ -40,7 +48,7 @@ When writing programs, especially for projects like the CRUD Python module from 
 
 The advantages of working in this way became evident when I connected the dashboard widgets to the database in Project Two. The modular design allowed me to easily integrate the CRUD module with the dashboard, facilitating smooth data retrieval and manipulation. In the future, this CRUD Python module can be reused in other projects requiring database interactions, saving time and reducing the need for rewriting code.
 
-Problem-Solving Approach as a Computer Scientist
+#Problem-Solving Approach as a Computer Scientist
 
 Approaching problems as a computer scientist involves a combination of analytical thinking, structured planning, and iterative development. When I began working on the database and dashboard requirements for Grazioso Salvare, I first analyzed the problem by breaking it down into smaller tasks:
 
@@ -50,7 +58,7 @@ Approaching problems as a computer scientist involves a combination of analytica
 
 This approach was more methodical compared to previous assignments, where the scope might have been narrower. In the future, I would apply similar strategies—starting with a clear understanding of client needs, planning the architecture, and developing iteratively—to create databases and applications that meet specific client requirements.
 
-The Role of Computer Scientists
+#The Role of Computer Scientists
 
 Computer scientists play a crucial role in solving complex problems through technology. They design, implement, and optimize systems that can process, analyze, and visualize data in ways that drive better decision-making and operational efficiency. 
 
